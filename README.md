@@ -48,3 +48,7 @@ private static final String URL = "jdbc:mysql://localhost:3306/jdbc_demo";
 private static final String USER = "your_mysql_username";
 private static final String PASSWORD = "your_mysql_password";
 
+
+
+🧑‍💻 Author
+khelan sahu
